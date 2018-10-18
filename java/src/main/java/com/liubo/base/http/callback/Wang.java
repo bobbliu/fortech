@@ -1,4 +1,4 @@
-package com.liubo.base.callback;
+package com.liubo.base.http.callback;
 
 /**
  * 这个是小王
