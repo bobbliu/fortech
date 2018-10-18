@@ -1,4 +1,4 @@
-package com.liubo.base.http.callback;
+package com.liubo.base.callback;
 
 /**
  * 这个就是小李啦
