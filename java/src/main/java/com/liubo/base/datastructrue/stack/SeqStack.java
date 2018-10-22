@@ -47,12 +47,13 @@ public class SeqStack<T> implements Stack<T>, Serializable {
         s.push("A");
         s.push("B");
         s.push("C");
+        s.push("D");
         System.out.println("size->" + s.size());
         int l = s.size();//size在减少，必须先记录
         for (int i = 0; i < l; i++) {
             System.out.println("s.pop->" + s.pop());
         }
-       System.out.println("s.peek->" + s.peek());
+        System.out.println("s.peek->" + s.peek());
     }
 
     @Override
